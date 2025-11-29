@@ -17,3 +17,9 @@ We started the code to print the UVM Topology .
 EDA LINK -https://www.edaplayground.com/x/c5bq
 
 We have done the code for interfaces and sequence item for every agent .We are also done the testbench integration.We encountered some errors, but we discussed them and resolved the issues.
+
+29/11/2025
+
+EDA LINK -https://www.edaplayground.com/x/A6gi
+
+Here is the total code for the project VENDING MACHINE CONTROLLER.
